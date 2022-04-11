@@ -1,0 +1,55 @@
+ul li{
+    list-style: none;
+}
+
+.google-image {
+    padding-top: 280px;
+    padding-left: 40%;
+    padding-bottom: 50px;
+    
+    
+}
+.form-search {
+    padding-left: 35%;
+    padding-bottom: 50px;
+}
+#form-search {
+    width: 40%;
+}
+.buttons {
+    padding-left: 41%;
+}
+
+
+.footer-right {
+    display: block;
+    float: right;
+    padding-top: 200px;
+    display: flex;
+}
+.footer-left {
+    display: block;
+    float: left;
+    padding-top: 200px;
+    display: flex;
+}
+#nav_bar {
+    display: block;
+    float: right;
+    display: flex;
+}
+.nav-links {
+    padding-right: 20px;
+}
+#Privacy {
+    padding-right: 20px;
+}
+#Terms {
+    padding-right: 20px;
+}
+#Advertising {
+    padding-right: 20px;
+}
+#Business {
+    padding-right: 20px;
+}
